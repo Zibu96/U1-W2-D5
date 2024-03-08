@@ -1,0 +1,132 @@
+/* Your styles here */
+
+
+/*general setup */
+
+#general {
+    width: 1250px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 500;
+} 
+.logo {
+    background-color: #27313d ;
+
+}
+.first_pic {
+    width: 100px;
+    padding: 8px 0 8px 25px;
+}
+.nav {
+    background-color:  #364757 ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+}
+
+.menu{
+    
+display: inline;
+color: white;
+padding-right: 15px ;
+
+}
+
+/*main section */
+.main_reset {
+    background-color: #e9edee ;
+}
+.section {
+    text-align: center;
+   
+}
+
+
+
+.button {
+    background-color: #f36503;
+    border-style: none;
+    width: 1200px;
+    margin: 30px 0;
+    color: white;
+    padding: 10px 0 ;
+}
+
+.title {
+    background-image: url(../images/bg-image.png);
+    margin-left: 25px;
+    padding: 80px 0;
+    width: 1200px;
+    color: white;
+}
+
+.h_title {
+    font-size: 2em;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.center {
+    width: 1200px;
+    background-color: white;
+    margin:50px 0 0 25px;
+}
+
+.write {
+    font-size: 1.3em;
+    margin-left: 25px;
+    padding: 15px 0;
+}
+
+.span {
+    font-size: 0.8em;
+    padding-left: 15px;
+    
+}
+.link {
+    text-decoration: none;
+    color: #82a6aa ;
+    font-weight: bold;
+}
+
+.block_img {
+    display: inline-block;
+    width: 1200px;
+    margin-bottom: 8px;
+}
+.img {
+    display: inline-block;
+    width: 255px;
+    height: 300px;
+    border-radius: 30px;
+    margin: 0 20px;
+    box-shadow: 15px 12px 12px 0px rgba(0,0,0,0.1);
+
+}
+
+.image {
+    margin-top: 20px;
+    width: 1200px;
+    
+}
+.pre_foot {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.foot {
+    background-color: #364757;
+    padding: 7px 0;
+}
+.last_link {
+   color: white;
+   font-weight: bold;
+}
+.end {
+    background-color: #27313d;
+
+}
+.last_image {
+    width: 200px;
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
