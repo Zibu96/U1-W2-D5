@@ -112,6 +112,12 @@ let car=cars[i]
 const numericArray = [
   6, 90, 45, 75, 84, 98, 35, 74, 31, 2, 8, 23, 100, 32, 66, 313, 321, 105,
 ]
+let i=0
+let array= numericArray.length -1
+while (i <= array){
+console.log(numericArray[i])
+i++
+}
 
 /* ESERCIZIO 10
     Partendo dall'array fornito e utilizzando un costrutto switch, genera un nuovo array composto dalle posizioni di ogni carattere all'interno
